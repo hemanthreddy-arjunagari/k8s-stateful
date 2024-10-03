@@ -6,3 +6,5 @@
 #import ./common/registry/Caddyfile
 #import ./common/uptime/Caddyfile
 #import ./common/superset/Caddyfile
+#import ./common/rabbitmq/Caddyfile
+#import ./common/kong/Caddyfile
